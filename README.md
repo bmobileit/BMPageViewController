@@ -67,7 +67,7 @@ direction of navigation.
 
 
 ## Instalation:
-- Using [Cocoapods](http://cocoapods.org/):
+- Using [CocoaPods](http://cocoapods.org/):
 
 Just add this line to your `Podfile`:
 
